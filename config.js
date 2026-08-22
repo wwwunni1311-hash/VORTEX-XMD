@@ -95,3 +95,5 @@ module.exports = {
     // ==============================
     AUTO_STICKER: process.env.AUTO_STICKER || "false"
 };
+
+𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶
