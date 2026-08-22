@@ -1,8 +1,8 @@
 {
-  "name": "Vortex-Xmd",
+  "name": "𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶",
   "description": "JavaScript WhatsApp bot made by HansTech",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["Vortex-Xmd"],
+  "keywords": ["𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "Sticker pack name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶"
     },
     "PREFIX": {
       "description": "Bot command prefix. Do not leave empty or null.",
@@ -94,7 +94,7 @@
     "BOT_NAME": {
       "description": "Bot name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶"
     },
     "ANTI_LINK": {
       "description": "Delete group links if found.",
@@ -124,7 +124,7 @@
     "DESCRIPTION": {
       "description": "Custom bot description or caption for menu.",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTz*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶*"
     },
     "DELETE_LINKS": {
       "description": "Delete links from group without kicking member.",
