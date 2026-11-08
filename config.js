@@ -66,17 +66,17 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶*",
     
     // ==============================
     //      BOT APPEARANCE
     // ==============================
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+    BOT_NAME: process.env.BOT_NAME || "𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶",
     STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
+    LIVE_MSG: process.env.LIVE_MSG || "> 𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶👻 IS ALIVE",
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
 
     // ==============================
@@ -95,3 +95,5 @@ module.exports = {
     // ==============================
     AUTO_STICKER: process.env.AUTO_STICKER || "false"
 };
+
+𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶

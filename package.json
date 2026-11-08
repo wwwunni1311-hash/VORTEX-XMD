@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By Hans_Tech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Vortex-Xmd",
-    "stop": "pm2 stop Vortex-Xmd",
-    "restart": "pm2 restart Vortex-Xmd"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶",
+    "stop": "pm2 stop 𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶",
+    "restart": "pm2 restart 𝗜𝘀 𝗺𝗲 𝘂𝗻𝗻𝗶"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
